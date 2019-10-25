@@ -1,5 +1,5 @@
-/*
- * Copyright 6WIND 2019. All rights reserved.
+/* SPDX-License-Identifier: Apache-2.0
+ * Copyright 2019 6WIND S.A.
  */
 
 #ifndef _pfcp_h_
